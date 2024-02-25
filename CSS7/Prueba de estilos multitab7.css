@@ -1,0 +1,16 @@
+ /* Estilo para el menú desplegable */
+select {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para las opciones */
+option {
+    font-size: 14px;
+    background-color: #fff;
+    color: #333;
+}
+Este es solo un ejemplo simple de cómo crear un menú desplegable con opciones predeterminadas y aplicar estilos. Puedes personalizar los estilos y agregar más opciones según tus necesidades. Asegúrate de vincular correctamente tu archivo HTML con el archivo CSS utilizando la etiqueta <link> en el encabezado del documento HTML.

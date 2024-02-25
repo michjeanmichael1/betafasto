@@ -1,0 +1,64 @@
+
+
+  .opciones7 {
+  width: 200%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #0d436d;
+  }
+
+  .label {
+    color: #032d58;
+  } 
+
+  .login-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  .login-button {
+    background-color: #032d58;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  .login-container h6 {
+    color: #032d58;
+  }
+
+  .login-container h4 {
+    color: #032d58;
+  }
+
+  .warnings{
+    width: 200px;
+    text-align: center;
+    margin:auto;
+    color: #b06ab3;
+    padding-top: 20px;
+  }
+
+
+
+
+
+
+
+  .container-table{
+    width:90% ;
+    background: white;
+    margin: 50px auto;
+  
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-auto-rows: 50px;
+    
+    
+  }

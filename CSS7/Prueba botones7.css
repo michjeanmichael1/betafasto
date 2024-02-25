@@ -1,0 +1,12 @@
+
+
+
+.boton {
+    display: inline-block;
+    padding: 10px 70px;
+    background-color: #032d58; 
+    color: #fff; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
